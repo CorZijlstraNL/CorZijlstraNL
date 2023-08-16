@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning the basics of GIT, GIThub, Azure and so on. 
+
+Probably you won't find anything you can use here. 
